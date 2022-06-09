@@ -40,8 +40,8 @@ const bell {
   <a align="right" href="https://github.com/beluirina/30-days-ReactJs" title="30-days-ReactJs"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=beluirina&repo=30-days-ReactJs&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/--" title="--"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=beluirina&repo=portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
+<!-- <div width="100%" align="center">
+  <a align="left" href="https://github.com/--" title="--"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=beluirina&repo=portfolio&theme=react&border_color=61dafb&border_radius=10"></a> -->
   <br>
 <br>
 <br>
