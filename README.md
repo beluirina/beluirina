@@ -18,7 +18,7 @@ const bell {
   
   location: 'Buenos Aires, Argentina',
   
-  code: ['HTML5', 'CSS', 'Javascript','scss', 'React JS', 'Git', 'JSON', 'Typescript'],
+  code: ['SQL', 'ABAP', 'Javascript','scss', 'React JS', 'Git', 'JSON', 'Typescript'],
   
   Languages: ['Ingles', 'Español', 'Chino basico'],
   
