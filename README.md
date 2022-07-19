@@ -5,7 +5,7 @@
 <p><em>FullStack Web Developer Jr. always on the lookout for more projects and ideas!<img src="https://media0.giphy.com/media/ClfrdDtALSEog/giphy.gif?cid=ecf05e476ok8pdex9phzfpe85mrvcrxn1d2qu9nbqa578eq5&rid=giphy.gif&ct=s" width="100">
 </em></p>
 
-- 🔭 I’m currently doing a profesionalizing training course at Artech.
+- 🔭 I’m currently a ABAP - SAP Trainee at Artech.
 - 🌱 I’m currently learning ReactJs and SQL.
 
 [![Linkedin: Belen Jessikowski](https://img.shields.io/badge/-Belen%20Jessikowski-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belen-jessikowski/)](https://www.linkedin.com/in/belen-jessikowski/)
