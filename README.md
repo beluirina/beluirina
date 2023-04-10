@@ -2,11 +2,11 @@
 
 <h2> Im Belen Jessikowski </h2>
 <img align='right' src="https://media4.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif?cid=ecf05e4723tw9i6xrzcyilkc1rn46aqarf7d1e4g3frr876u&rid=giphy.gif&ct=s" width="230">
-<p><em>FullStack Web Developer Jr. always on the lookout for more projects and ideas!<img src="https://media0.giphy.com/media/ClfrdDtALSEog/giphy.gif?cid=ecf05e476ok8pdex9phzfpe85mrvcrxn1d2qu9nbqa578eq5&rid=giphy.gif&ct=s" width="100">
+<p><em> Im a Project manager interested in Data Science. <img src="https://media0.giphy.com/media/ClfrdDtALSEog/giphy.gif?cid=ecf05e476ok8pdex9phzfpe85mrvcrxn1d2qu9nbqa578eq5&rid=giphy.gif&ct=s" width="100">
 </em></p>
 
-- 🔭 I’m currently a ABAP - SAP Trainee at Artech.
-- 🌱 I’m currently learning ReactJs and SQL.
+- 🔭 I’m currently a Project Manager at Artech.
+- 🌱 I’m currently learning Python, Stadistics, R and SQL.
 
 [![Linkedin: Belen Jessikowski](https://img.shields.io/badge/-Belen%20Jessikowski-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belen-jessikowski/)](https://www.linkedin.com/in/belen-jessikowski/)
 
@@ -18,12 +18,10 @@ const bell {
   
   location: 'Buenos Aires, Argentina',
   
-  code: ['SQL', 'ABAP', 'Javascript','scss', 'React JS', 'Git', 'JSON', 'Typescript'],
+  code: ['SQL', 'ABAP','scss', 'Javascript', 'Git'],
   
-  Languages: ['Ingles', 'Español', 'Chino basico'],
+  Languages: ['Ingles', 'Español', 'Portugese'],
   
-  challenge: "I am doing the #30daysOfReact with a group of other coder nerds"
- 
 }
 
 ```
