@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2> Im Belen Jessikowski </h2>
-<img align='right' src="https://media4.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif?cid=ecf05e4723tw9i6xrzcyilkc1rn46aqarf7d1e4g3frr876u&rid=giphy.gif&ct=s" width="230">
+
 <p><em> Im a Data Scientist. <img src="https://media0.giphy.com/media/ClfrdDtALSEog/giphy.gif?cid=ecf05e476ok8pdex9phzfpe85mrvcrxn1d2qu9nbqa578eq5&rid=giphy.gif&ct=s" width="100">
 </em></p>
 
