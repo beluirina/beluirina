@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-<p><em> I'm here to learn. Here to have grow! <img src="https://media0.giphy.com/media/ClfrdDtALSEog/giphy.gif?cid=ecf05e476ok8pdex9phzfpe85mrvcrxn1d2qu9nbqa578eq5&rid=giphy.gif&ct=s" width="100">
+<p><em> I'm here to learn. Here to grow! <img src="https://media0.giphy.com/media/ClfrdDtALSEog/giphy.gif?cid=ecf05e476ok8pdex9phzfpe85mrvcrxn1d2qu9nbqa578eq5&rid=giphy.gif&ct=s" width="100">
 </em></p>
 
 - ⚡ I’m currently a Data Analyst at Artech.
 
 [![Linkedin: Belen Jessikowski](https://img.shields.io/badge/-Belen%20Jessikowski-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belen-jessikowski/)](https://www.linkedin.com/in/belen-jessikowski/)
 
-<br>
-<br>
 <br>
 <h4 align="center">
   <a href="https://github.com/beluirina?tab=repositories" title="show repositories">
