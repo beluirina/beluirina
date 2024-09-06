@@ -1,6 +1,6 @@
-### Hi there 👋
+### Buenas! 👋
 
-<p><em> I'm here to learn. Here to grow! <img src="https://media0.giphy.com/media/ClfrdDtALSEog/giphy.gif?cid=ecf05e476ok8pdex9phzfpe85mrvcrxn1d2qu9nbqa578eq5&rid=giphy.gif&ct=s" width="100">
+<p><em> Una info rapida sobre mi- <img src="https://media0.giphy.com/media/ClfrdDtALSEog/giphy.gif?cid=ecf05e476ok8pdex9phzfpe85mrvcrxn1d2qu9nbqa578eq5&rid=giphy.gif&ct=s" width="100">
 </em></p>
 
 - ⚡ I’m currently a Data Analyst at Artech.
